@@ -1,0 +1,23 @@
+
+Three. JS Learning Route, website, information, case, worth collecting (updated from time to time)
+Hi, I'm Darren.
+Three.js and its role
+Three. JS is an open source JavaScript-based 3D graphics library for creating and displaying interactive 3D graphics and animations in Web browsers. It provides rich functionality and apis that make it easy for developers to create complex 3D scenes, models, and effects on Web pages.
+Use Three. Js, you can do the following:
+Create and render a 3D scene: three. 3.JS provides the basic components needed to create and render a 3D scene, including the camera, lights, materials, geometry, and so on. You can create a 3D scene with simple code and render it in real time in a browser.
+Loading and displaying 3D models: three. Import.js supports the import of 3D models in various file formats, such as OBJ, FBX, Collada, and so on. You can load your 3D model into three. Display, rotate, scale, and so on.
+Create complex animations: three. JS provides powerful animation capabilities, you can set up keyframes, interpolation, slow motion and other techniques, to create a variety of complex animation effects, such as rotation, movement, fade in and out and so on.
+Implementing interaction and control: three. JS allows you to interact with 3D scenes via mouse, keyboard and other input devices, and implement various control functions such as rotation, translation, scaling, picking and so on.
+Data Visualization. JS can be used to create various types of data visualization, such as maps, charts, graphs, and more. You can convert data into 3D objects and use three. Visual presentation by Visual Studio.
+In general, three. JS provides developers with a powerful tool that enables them to create beautiful, interactive 3D graphics and animations in a Web browser. It has a wide range of applications in game development, virtual reality, architectural visualization, product display and other fields.
+Three.js learning route
+Learn three. The JS route can be customized to your experience and interests, but here's a general learning curve for beginners:
+HTML, CSS, and JavaScript basics: three. Web.js is based on Web technology, so you first need to know the basics of HTML, CSS, and JavaScript. Understand HTML elements, CSS styles, and JavaScript syntax, as well as basic Dom and event handling.
+Three. Basic JS Concepts: learn three. JS basic concepts and core components such as Scene, Camera, Renderer, Material, Geometry, etc. . Understand what they do and how to use them, and how to create and configure them.
+Create a simple 3D scene using three. JS to create a simple 3D scene, including adding geometry, lights, materials, etc. . Learn how to set the scene size and background color, and how to render the scene in the browser.
+Load and display 3D models: learn how to load and display external 3D model files such as OBJ, FBX, Collada, and more. Learn how to import a model file, how to position, rotate, and scale your model, and how to apply materials and textures.
+Add Animation: learn how to use three. Animation.js animation capabilities, creating a variety of animation effects, such as rotation, movement, fade in and out, and so on. Learn how to set up keyframes, interpolation, and slow motion, and how to control the playback and pausing of animations.
+Interaction and control: learn how to interact with the 3D scene, and to achieve various control functions, such as rotation, translation, scaling, picking and so on. Learn how to control the operation of the scene through the mouse, keyboard and other input devices.
+Learn how to data visualization data into 3D objects using three. Visual presentation by Visual Studio. Learn how to create various types of data visualization, such as maps, charts, graphs, and more.
+Advanced Technologies and Applications: learn the more advanced three. JS technologies and applications such as particle systems, shadows, post-processing, physics engines, etc. . Explore more complex scenarios and effects, and challenge your creativity and technical abilities.
+In the learning process, it is recommended to combine practice and projects to consolidate the knowledge learned. Expand your three by reading documentation, viewing sample code, and participating in community discussions. Knowledge and skills.
